@@ -1,0 +1,6 @@
+- Sự khác nhau giữa margin và padding ?
+- Box-sizing: content-box - border-box
+- Sự khác nhau giữa absolute và relative ?
+- Frontend: _HTML CSS_ - Javascript - React/Vue/Angular - Typescript - NextJS
+- Frontend Tools: Git github, Figma
+- Languages: English
