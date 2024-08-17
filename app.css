@@ -35,9 +35,3 @@ body {
   font-family: "DM Sans", sans-serif;
   padding: 50px;
 }
-ul {
-  list-style: none;
-}
-.menu__link {
-  text-decoration: none;
-}
